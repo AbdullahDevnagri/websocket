@@ -1,4 +1,5 @@
 # Voice Agent
+![websocketai](https://github.com/user-attachments/assets/0ea819f6-4e5a-4550-b715-2c7bcf6955f7)
 
 A Pipecat example demonstrating the simplest way to create a voice agent using `WebsocketTransport`.
 
